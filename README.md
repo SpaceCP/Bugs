@@ -9,10 +9,11 @@ To keep things nice and clear, please follow these simple guidelines:
 1. Grab yourself a github account. 
 2. Head over to the [Issues](https://github.com/SpaceCP/Bugs/issues) tab
 3. **Make sure your problem has NOT been reported yet**
-4. Either create a new issue, or contribute to the **already existing** thread. 
+4. Either create a new issue, or contribute to the thread **already existing for the issue**. 
 
 #### What should I write?
 
+Write one Github Issue per bug, don't create lists of bugs in one Issue.  
 The more information, the better. Basically: try to help as much as you can in identifying and fixing the problem.  
 We're specifically looking for the following information:
 
