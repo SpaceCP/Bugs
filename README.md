@@ -13,9 +13,15 @@ To keep things nice and clear, please follow these simple guidelines:
 
 #### What should I write?
 
-The more information, the better. Browser, the OS you're using to access the panel, 
-the OS you're using to run the daemon, specific steps to reproduce an issue, etc. etc...  
-Basically: try to help as much as you can in identifying and fixing the problem.
+The more information, the better. Basically: try to help as much as you can in identifying and fixing the problem.  
+We're specifically looking for the following information:
+
+- **Specific steps to reproduce the issue**
+- Browser
+- Operating system of your daemon
+- What game and mod the issue occurred on
+- What area of the panel the issue occurred on
+- Was there any code or error displayed?
 
 #### I'm awesome? 
 
